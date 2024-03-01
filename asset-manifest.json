@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Portfolio_website/static/css/main.ba9c4a23.css",
-    "main.js": "/Portfolio_website/static/js/main.af227594.js",
+    "main.js": "/Portfolio_website/static/js/main.62948dc2.js",
     "static/media/profile.png": "/Portfolio_website/static/media/profile.45bbf584013c8ade601f.png",
     "static/media/Hsu-Eric_Resume.pdf": "/Portfolio_website/static/media/Hsu-Eric_Resume.ec269ac25258dfdc84c3.pdf",
     "static/media/my-image2.jpg": "/Portfolio_website/static/media/my-image2.da9087c262961df1d470.jpg",
     "index.html": "/Portfolio_website/index.html",
     "main.ba9c4a23.css.map": "/Portfolio_website/static/css/main.ba9c4a23.css.map",
-    "main.af227594.js.map": "/Portfolio_website/static/js/main.af227594.js.map"
+    "main.62948dc2.js.map": "/Portfolio_website/static/js/main.62948dc2.js.map"
   },
   "entrypoints": [
     "static/css/main.ba9c4a23.css",
-    "static/js/main.af227594.js"
+    "static/js/main.62948dc2.js"
   ]
 }
