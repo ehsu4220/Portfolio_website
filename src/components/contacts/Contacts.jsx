@@ -11,7 +11,7 @@ const Contacts = () => {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm("service_0q5ezk4", "template_svpzhb5", form.current)
+        emailjs.sendForm("service_0q5ezk4", "template_svpzhb5", form.current, "38dOv1Uw1p6YDh4jT")
         e.target.reset()
     }
 
