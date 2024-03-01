@@ -9,6 +9,10 @@ import Contacts from './components/contacts/Contacts'
 import Footer from './components/footer/Footer'
 
 const App = () => {
+  React.useEffect(() => {
+    document.title = 'Eric Hsu';
+  }, []); // Empty dependency array to ensure the effect runs only once
+
   return (
     
     <>
