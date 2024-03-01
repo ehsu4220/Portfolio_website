@@ -1,0 +1,43 @@
+time{
+    
+    height: 70vh;
+    padding-top: 4rem;
+    overflow: hidden;
+    text-align: center;
+}
+
+.table-header {
+  text-align: left; /* Center align the heading */
+  margin-left: 15rem;
+}
+
+.table-header h3 {
+  margin: 0; /* Remove margin from the h3 element */
+}
+
+#table_structure {
+    max-height: 450px;
+    overflow-y: auto;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    align-items: center;
+    text-align: left;
+    height: 100%;
+    position: relative;
+  }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+  
+th, td {
+  padding: 30px; /* Add padding to create space */
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+  
+  
+th:first-child, td:first-child {
+  width: 100px;
+}

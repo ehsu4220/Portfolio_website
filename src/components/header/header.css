@@ -1,0 +1,90 @@
+header{
+
+    height: 70vh;
+    padding-top: 4rem;
+    overflow: hidden;
+    text-align: center;
+}
+
+.header__container{
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+
+.cta{
+
+    margin-top: 2rem;  /*to push buttons littlebit down*/
+    display: flex;
+    gap: 1.2rem;
+    justify-content: center;
+    position: relative;
+}
+
+/* Applying CSS for HeaderSocials */
+
+.header__socials{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.2rem;
+    position: relative;
+    left: 3rem;
+    bottom: 3rem;
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+.header__socials::after{
+
+    content: "";
+    width: 1px;
+    height: 2rem;
+}
+
+/* Applying CSS for My image */
+
+.me {
+    background-image: url("../../assets/my-image2.jpg");
+    justify-content: center; /* Center content horizontally */
+    width: 18rem;
+    height: 18rem; /* Set height equal to width to make it a perfect circle */
+    position: relative;
+    left: calc(50% - 9rem);
+    border-radius: 50%; /* Make it a circle */
+    overflow: hidden;
+    padding: 0rem 0rem 0rem 0rem;
+}
+
+/* Media queries for medium devices(Tablets) */
+
+@media screen and (max-width: 1024px) {
+
+    header{
+
+        height: 60vh;
+    }
+
+}
+
+/* Media queries for small devices(Mobiles) */
+
+@media screen and (max-width: 600px) {
+
+    header{
+
+        height: 100vh;
+    }
+
+    .header__socials, .scroll__down{
+
+        display: none;
+    }
+
+    .me > img{
+
+        margin-top: 2.5rem;
+    }
+}
