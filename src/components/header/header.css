@@ -25,6 +25,27 @@ header{
 /* Applying CSS for HeaderSocials */
 
 .header__socials{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+
+.social_icons{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.2rem;
+    position: relative;
+    left: 3rem;
+    bottom: 3rem;
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+.other_pages{
 
     display: flex;
     flex-direction: row;
