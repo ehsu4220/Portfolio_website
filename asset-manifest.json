@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio_website/static/css/main.54e52e88.css",
-    "main.js": "/Portfolio_website/static/js/main.3534a5f6.js",
+    "main.css": "/Portfolio_website/static/css/main.394780b7.css",
+    "main.js": "/Portfolio_website/static/js/main.b632b614.js",
+    "static/media/2024.06_Narrative-CV.pdf": "/Portfolio_website/static/media/2024.06_Narrative-CV.7701dfe1e61e1080f6b4.pdf",
     "static/media/profile.png": "/Portfolio_website/static/media/profile.45bbf584013c8ade601f.png",
     "static/media/Hsu-Eric_Resume.pdf": "/Portfolio_website/static/media/Hsu-Eric_Resume.ec269ac25258dfdc84c3.pdf",
     "static/media/my-image2.jpg": "/Portfolio_website/static/media/my-image2.da9087c262961df1d470.jpg",
     "index.html": "/Portfolio_website/index.html",
-    "main.54e52e88.css.map": "/Portfolio_website/static/css/main.54e52e88.css.map",
-    "main.3534a5f6.js.map": "/Portfolio_website/static/js/main.3534a5f6.js.map"
+    "main.394780b7.css.map": "/Portfolio_website/static/css/main.394780b7.css.map",
+    "main.b632b614.js.map": "/Portfolio_website/static/js/main.b632b614.js.map"
   },
   "entrypoints": [
-    "static/css/main.54e52e88.css",
-    "static/js/main.3534a5f6.js"
+    "static/css/main.394780b7.css",
+    "static/js/main.b632b614.js"
   ]
 }
