@@ -2,6 +2,8 @@ import React from 'react';
 import './timeline.css'
 
 const eventsData = [
+    {date: "May 2024", 
+    description: "Repurposing Earlyscreen Model code to fit mobile data. Assessing performance trained on LEAF data, tested on mobile data.",},
 
     {date: "Feb 2024", 
     description: "Following advice from Professor Karkar, I have begun development of a portfolio webpage to document career progress.",},

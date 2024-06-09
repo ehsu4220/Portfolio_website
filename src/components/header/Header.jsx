@@ -13,9 +13,9 @@ const Header = () => {
                 <div className="me">
                     <img src={me} alt='me'/>
                 </div>
-                <div className="text_container">
-                <h1>Eric Hsu</h1>
-                <h3 className="text-light">Recent M.S. Computer Science</h3>
+                    <div className="text_container">
+                    <h1>Eric Hsu</h1>
+                    <h3 className="text-light">M.S. in Computer Science</h3>
                 </div>
                 <CTA/>
             </div>
